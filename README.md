@@ -8,7 +8,4 @@ This repository contains the final project for the **MySkill Fullstack Intensive
 
 The project consists of several analyses tailored to different teams, including Marketing, Warehouse, and Digital Marketing teams. Each analysis focuses on specific key performance indicators (KPIs) and offers recommendations based on the results.
 
----
-
-## Project Structure
 
